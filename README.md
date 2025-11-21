@@ -8,3 +8,5 @@ to get the list of file in windows type dir u will get
 to get the list of hidden files type dir /a
 <br>
 the changes made in the local file should be commited
+<br>
+<p>git clone url(pasted heer) is used when the project is made in github and we want to bring it in our laptop</p>
